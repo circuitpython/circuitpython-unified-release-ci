@@ -7,7 +7,7 @@
     :target: https://github.com/adafruit/Adafruit_CircuitPython_VEML7700/actions/
     :alt: Build Status
 
-circuitpython-unified-build-ci
-==============================
+circuitpython-unified-release-ci
+================================
 
-A unified build CI for CircuitPython libraries
+A unified release CI for CircuitPython libraries
